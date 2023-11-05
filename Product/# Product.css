@@ -1,0 +1,11 @@
+header > ul {
+    height: 30px;
+    background-color: #557562;
+    text-align: center;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    list-style: none;
+    display: flex;
+    gap: 250px;
+    padding-top: 10px;   
+}
